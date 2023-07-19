@@ -26,6 +26,7 @@ Username: bytesquaduser1@outlook.com
 Password: ByteSquad1!
 
 The app has delete functionality - for the purpose of the dummy data we kindly ask that you don't delete any data :) 
+Create your own data first and then delete that to see functionality!! (Though data isn't designed to be saved with this MVP so it will be wiped on refresh anyways!)
 
 Deployment link: https://byte-squad-frontend-memory-companion.vercel.app/
 
