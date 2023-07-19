@@ -27,7 +27,7 @@ Password: ByteSquad1!
 
 The app has delete functionality - for the purpose of the dummy data we kindly ask that you don't delete any data :) 
 
-Deployment link: Incoming after important Demo Day on 05/07/23 - We'll deliver soon!
+Deployment link: https://byte-squad-frontend-memory-companion.vercel.app/
 
 <!-- DO NOT UNCOMMENT UNTIL 06/07/2023 ONCE THE DEMO IS DONE :) -->
 <!-- You can view our live application [here](https://byte-squad-frontend-memory-companion.vercel.app/) -->
